@@ -1,34 +1,3 @@
-<div align="center">
-  <h1>👷 LLM Engineer's Handbook</h1>
-  <p class="tagline">Official repository of the <a href="https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/">LLM Engineer's Handbook</a> by <a href="https://github.com/iusztinpaul">Paul Iusztin</a> and <a href="https://github.com/mlabonne">Maxime Labonne</a></p>
-</div>
-</br>
-
-<p align="center">
-  <a href="https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/">
-    <img src="images/cover_plus.png" alt="Book cover">
-  </a>
-</p>
-
-<p align="center">
-  Find the book on <a href="https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/">Amazon</a> or <a href="https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200062">Packt</a>
-</p>
-
-## 🌟 Features
-
-The goal of this book is to create your own end-to-end LLM-based system using best practices:
-
-- 📝 Data collection & generation
-- 🔄 LLM training pipeline
-- 📊 Simple RAG system
-- 🚀 Production-ready AWS deployment
-- 🔍 Comprehensive monitoring
-- 🧪 Testing and evaluation framework
-
-You can download and use the final trained model on [Hugging Face](https://huggingface.co/mlabonne/TwinLlama-3.1-8B-DPO).
-
-> [!IMPORTANT]
-> The code in this GitHub repository is actively maintained and may contain updates not reflected in the book. **Always refer to this repository for the latest version of the code.**
 
 ## 🔗 Dependencies
 
